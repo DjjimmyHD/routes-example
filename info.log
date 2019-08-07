@@ -1,0 +1,8 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"Card with title 2 not found.","level":"error"}
+{"message":"Card with title taskone not found.","level":"error"}
+{"message":"Card with id 0770544e-7010-460b-96d7-2644f7a9602d created","level":"info"}
+{"message":"Card with id 0770544e-7010-460b-96d7-2644f7a9602d not found.","level":"error"}
+{"message":"Card with id 1 not found.","level":"error"}
+{"message":"Card with id 1 deleted.","level":"info"}
